@@ -1,2 +1,1 @@
-import {default as InputJs} from './InputJs';
-import {default as Hello} from './Hello';
+export {default as InputJs} from './InputJs';

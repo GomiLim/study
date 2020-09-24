@@ -1,10 +1,9 @@
 import React from 'react';
 
-const InputJs = (props) => {
-  const { name, children } = props; 
+const InputJs = () => {
   return (
     <div>
-      InputJs 입니다.
+      InputJs
     </div>
   )
 }

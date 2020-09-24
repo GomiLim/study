@@ -1,6 +1,6 @@
 import React, { Children } from 'react';
 import './App.css';
-import { Part1, ArrowFunction, PropsJs, InputJs } from './project';
+import { Part1, ArrowFunction, PropsJs, InputJs, Challenge, Sort } from './project';
 
 function App() {
   return (
@@ -10,6 +10,8 @@ function App() {
       <PropsJs>헬로</PropsJs>
       {/* <PropsJs name ='은정'/> */}
       <InputJs />
+      <Challenge />
+      <Sort />
     </div>
   );
 }

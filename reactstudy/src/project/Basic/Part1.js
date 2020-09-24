@@ -17,7 +17,7 @@ const Part1 = () => {
   return (
     <>
       <div style={style}> style 객체로 만들어 적용</div>
-      <divStyled>styled component 이용</divStyled>
+      {/* <divStyled>styled component 이용</divStyled> */}
     </>
   )
 }
